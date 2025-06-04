@@ -17,7 +17,6 @@ int counter = 0;
 #include <BlynkSimpleEsp32.h>
 BlynkTimer timer;
 
-
 //Display circuit wiring 
 #define CLK_PIN    48     // GPIO PIN 48 from the ESP32 MCU 
 #define DIO_PIN    47     // GPIO PIN 47 from the ESP32 MCU 
